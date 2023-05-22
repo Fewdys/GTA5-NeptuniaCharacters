@@ -8,3 +8,5 @@
 ##### 5. Done
 
 #### If You Want To Use The Characters Online Download The Online Bypass and Be Sure To Place The Two Files In Your GTA5 Directory
+
+### Due To File Size The Download Is On MediaFire: https://www.mediafire.com/file/y5yv7auykzap3yl/Characters.rar/file
