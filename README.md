@@ -1,5 +1,5 @@
 ## Instructions For Installing
-#### Open 'OpenIV' Enter Edit Mode, Then Search For The Name Of The File For The Neptunia Character You Want To Add (Including The Extension - For Example .ytd) Click The 'Copy to "mods" folder' When It Shows Up, Then Replace The File It Copied With The One From The Neptunia Folder In Which You Searched For. 
+#### Open 'OpenIV' Enter Edit Mode, Then Search For The Name Of The File For The Neptunia Character You Want To Add (Including The Extension - For Example .yft) Click The 'Copy to "mods" folder' When It Shows Up, Then Replace The File It Copied With The One From The Neptunia Folder In Which You Searched For. 
 #### Example: Adult Neptune
 ##### 1. Open The Folder You Downloaded (Neptunia Characters) Click On Adult Neptune Folder, Copy The Name Of One Of The Files In There (Including The Extension - For Example .ytd) With The Example Being Adult Neptune You Would Copy One Of These Names - a_f_y_genhot_01.ydd, a_f_y_genhot_01.yft, a_f_y_genhot_01.ymt & a_f_y_genhot_01.ytd
 ##### 2. Open 'OpenIV' Enter Edit Mode and Search For The Name You Just Copied With The Example Being Adult Neptune - It Would Be Whatever Name You Copied From The Folder Aka (a_f_y_genhot_01. Whichever One Of The 4 Extensions You Copied)
