@@ -3,7 +3,7 @@
 #### Due To File Size The Download Is On MediaFire: https://www.mediafire.com/file/y5yv7auykzap3yl/Characters.rar/file
 
 #### Open 'OpenIV' Enter Edit Mode, Then Search For The Name Of The File For The Neptunia Character You Want To Add (Including The Extension - For Example .yft) Click The 'Copy to "mods" folder' When It Shows Up, Then Replace The Files It Copied To Mods With The Ones From The Folder Of The Name Of Whatever Character In Which You Are Trying To Add. 
-#### Example: Adult Neptune
+#### Example: Adding Adult Neptune
 ##### 1. Open The Folder You Downloaded (Neptunia Characters) Click On Adult Neptune Folder, Copy The Name Of One Of The Files In There (Including The Extension - For Example .yft) With The Example Being Adult Neptune You Would Copy One Of These Names - a_f_y_genhot_01.ydd, a_f_y_genhot_01.yft, a_f_y_genhot_01.ymt or a_f_y_genhot_01.ytd
 ##### 2. Open 'OpenIV' Enter Edit Mode and Search For The Name You Just Copied, With The Example Being Adult Neptune - It Would Be Whatever Name You Copied From The Folder Aka (a_f_y_genhot_01. Whichever One Of The 4 Extensions You Copied)
 ##### 3. Click The 'Copy to "mods" folder' Thats In Red
